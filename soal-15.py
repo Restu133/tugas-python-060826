@@ -1,0 +1,5 @@
+nama = input("Nama:") 
+kota = input("Asal Kota:")
+tahun_lahir = int(input("Tahun Lahir:"))
+print ("----Biodata-----")
+print (f"Nama anda {nama} \nDari kota {kota} \nLahir pada tahun {tahun_lahir}")
