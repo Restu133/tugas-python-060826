@@ -1,2 +1,2 @@
-hobi = "Bermain Game"
-print(hobi)
+hobi = "Bermain"
+print("Hobi saya adalah", hobi)
