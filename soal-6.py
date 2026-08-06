@@ -1,0 +1,2 @@
+hewan = "Anjing"
+print(hewan)
