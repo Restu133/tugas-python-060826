@@ -1,2 +1,2 @@
-hewan = "Anjing"
-print(hewan)
+jumlah = 100 
+print(jumlah)
